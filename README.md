@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Wan faiz a Full-Stack Developer, Gamer, Game Developer and technology enthusiast souly in software but sometimes hardware  👋
 
 <!--
 **wmfaiz/wmfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
