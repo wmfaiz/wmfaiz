@@ -2,9 +2,8 @@
 
 ### I'm Wan faiz a Full-Stack Developer, Gamer, Game Developer and technology enthusiast mainly in software but sometimes hardware
 
-#### To know me better please visit my website at https://wan-muhammad-faiz.vercel.app/ or you can download my resume below. Thank you for visiting my github
+#### To know me better please visit my website at https://wan-muhammad-faiz.vercel.app/ or you can download my [Resume](https://github.com/user-attachments/files/24228097/Resume.Wan.Faiz.pdf) here. Thank you for visiting my github!
 
-[Resume Wan Faiz.pdf](https://github.com/user-attachments/files/24228097/Resume.Wan.Faiz.pdf)
 <!--
 **wmfaiz/wmfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
