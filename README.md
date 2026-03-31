@@ -2,7 +2,7 @@
 
 ### I'm Wan faiz a Software Engineer, Gamer, Game Developer and technology enthusiast mainly in software but sometimes hardware
 
-#### To know me better please visit my website at https://wan-muhammad-faiz.vercel.app/ or you can download it here [Resume](https://github.com/user-attachments/files/26332747/Wan_Muhammad_Faiz_Resume.pdf). Thank you for visiting my github!
+#### To know me better please visit my website at https://wan-muhammad-faiz.vercel.app/ or you can download it here [Resume](https://github.com/user-attachments/files/26365674/Resume.31-3-2026.pdf). Thank you for visiting my github!
 
 <!--
 **wmfaiz/wmfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
